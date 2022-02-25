@@ -216,7 +216,9 @@ svg {
     text-align: center;
     color: #000000;
 }
-
+.idc-pluse:nth-child(7) .idc-verdana-14{
+    max-width: 140px;
+}
 /* ***********************footer****************** */
 .idc-footer .idc-container {
     padding-top: 60px;
